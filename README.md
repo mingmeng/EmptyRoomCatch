@@ -4,6 +4,9 @@
 
 DB使用了redis进行存储，东西写的比较早，很多不完善的地方，尽请谅解
 
+使用方法：将`D:\Java_web_project\emptyroom\src\main\resources` 下面的redis.propertites.example改名为redis.properties并且修改里面的参数，然后MVN打包并运行即可
+本项目默认使用的是redis db 3
+
 附上空教室列表一份（因为该业务需求只在**重庆邮电大学2/3/4/5/8**所以只爬取了这几个教室）
 有兴趣自己做的同学可以直接参照这边的教室列表~
 
