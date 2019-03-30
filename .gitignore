@@ -1,4 +1,4 @@
 target/
 .idea/
 emptyroom.iml
-redis.propertites
+redis.properties
